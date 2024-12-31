@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "popins-b";
+    src: url(../fonts/Poppins-SemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "popins-s";
+    src: url(../fonts/Poppins-Medium.ttf)  format("truetype");
+}
+@font-face{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    src: ;
+}
